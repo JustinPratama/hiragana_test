@@ -1,9 +1,11 @@
 {
+  "homepage": "https://JustinPratama.github.io/hiragana_test",
   "name": "hiragana_test",
   "private": true,
-  "homepage": "https://JustinPratama.github.io/hiragana_test",
   "version": "0.0.0",
   "type": "module",
+
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
