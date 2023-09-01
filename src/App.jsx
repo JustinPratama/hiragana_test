@@ -50,7 +50,7 @@ function App() {
 		{ romanji: 'wa', hiragana: 'わ' },
 		{ romanji: 'wo', hiragana: 'を' },
 		{ romanji: 'n', hiragana: 'ん' }
-		]
+		 ]
 
 	const [input, setInput] = useState('')
 	const [current, setCurrent] = useState(0)
