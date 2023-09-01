@@ -4,7 +4,11 @@
 Overview:
 My family plans to travel to Japan in Spring Break 2023. I thought that it would be neat to create a hiragana testing website so that I could partially learn more about the Japanese language.
 #
-To run it, clone the repo into your local machine and have react and npm installed. 
+Demo: [hiragana-test.vercel.app](https://hiragana-test.vercel.app)
+
+Need to fix: Randomized selection of letters
+
+To run it locally, clone the repo into your local machine and have react and npm installed. 
 
 Then run `npm run dev` in the file directory in terminal.
 
